@@ -1,13 +1,13 @@
 # Game-Engine
-![logo](https://user-images.githubusercontent.com/96186143/235836374-2f63d9e4-5909-42a2-a659-4135dd0a1120.png)
+![java-script](https://user-images.githubusercontent.com/96186143/235836678-ac625dac-2380-4eac-b1c2-b60b14e00958.png)
 
 This is a Game Engine for 5 games with **JavaScript**
-- Suduko
+- **Suduko**
 
-- Tic Tac Toe
+- **Tic Tac Toe**
 
-- Chess
+- **Chess**
 
-- 8 Queens
+- **8 Queens**
 
-- Connect 4
+- **Connect 4**
