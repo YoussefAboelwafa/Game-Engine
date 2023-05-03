@@ -24,18 +24,15 @@ a {
   font-size: 24px;
   margin-bottom: 20px;
   padding-bottom: 10px;
- 
 }
-li{
-  height: 50px;
-}
-li:hover{
+
+li:hover {
   transform: scale(1.1);
 }
 .container li {
   margin: 10px;
-  width: 40%;
-  height: 80px;
+  width: 50%;
+  padding: 20px;
   padding-top: 10px;
   margin-bottom: 20px;
   font-size: 30px;
